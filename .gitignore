@@ -6,3 +6,8 @@
 .langgraph_api/
 venv
 .env
+.vscode/
+*.db
+*.pkl
+vectorstores/
+outputs/
